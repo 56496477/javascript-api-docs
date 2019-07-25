@@ -1,5 +1,5 @@
 - String
-    - [- anchor()](javascript/string/anchor.md)
+    - [anchor()](javascript/string/anchor.md)
     - [charAt()](javascript/string/charAt.md)
     - [charCodeAt()](javascript/string/charCodeAt.md)
     - [codePointAt()](javascript/string/codePointAt.md)
